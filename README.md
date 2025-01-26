@@ -1,0 +1,3 @@
+This repository demonstrates two common errors that can occur when calculating the average of a list in Python. The first error involves handling empty lists, and the second involves handling lists containing non-numeric data types.
+
+The `bug.py` file contains the buggy code, while the `bugSolution.py` file offers a corrected version that robustly handles these situations.  The solution includes explicit type checking and improved error handling to prevent unexpected behavior or crashes.
